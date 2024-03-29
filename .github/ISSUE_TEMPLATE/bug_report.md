@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 
+about: Create a report help us imporove
 title: ''
 labels: ''
 assignees: ''
