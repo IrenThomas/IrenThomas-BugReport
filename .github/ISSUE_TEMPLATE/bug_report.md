@@ -18,10 +18,6 @@ assignees: ''
 
 
 **Actual Behavior**
-
-
-
-**Desktop (please complete the following information):**
  
 
 **Smartphone (please complete the following information):**
